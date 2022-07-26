@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  welcome_message: 
+  phone: 1
+  email: MyString
+  address: 
+  max_negative_percent: 1.5
+  min_positive_percent: 1.5
+  max_negative_events: 1
+  min_positive_events: 1
+  customer_id: 1
+
+two:
+  name: MyString
+  welcome_message: 
+  phone: 1
+  email: MyString
+  address: 
+  max_negative_percent: 1.5
+  min_positive_percent: 1.5
+  max_negative_events: 1
+  min_positive_events: 1
+  customer_id: 1
